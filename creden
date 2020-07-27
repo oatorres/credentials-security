@@ -15,7 +15,7 @@ joUBdAHHM6ji/QaZcSTnWGMJiZGciyxo9A0m+f0g1AYDm008Eevi
 apikey = "AURaBOiNFDHUzyBxIcmc61MUQEBTUIop"
 
 
-sudo sudo passwd root
+sudo passwd root
 groupadd newgroup
 useradd -G examplegroup exampleusername
 mkdir dir-root/
@@ -23,9 +23,18 @@ chmod -R 777 demo-functions-java/
 chown usuariox:grupoy archivo.txt
 USE MASTER 1
 use master 2
+use master 3
 sp_addsrvrolemember 'PC\Admin', 'sysadmin'
 USE MASTER, 
 USER MODEL, 
 USE MSDB, 
 USE RESOURCE, 
 USE TEMPDB. 
+
+
+secret' => "kMyy1eWzjivb9OuTaBnc0kcapzqDnzbnvjaS3dBklOpyq"
+
+
+
+fake url: https://myusername:mypassword!#$?*abc@f2ooce.com:9200/elastic" 
+
