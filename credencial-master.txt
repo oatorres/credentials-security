@@ -1,0 +1,31 @@
+-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAwvMrbbGW9cElKMYPVfdCoLOnmxauAmBjLZbPGJTvfY+sMwxA
+xf8msqauHZUgVDFChjbILKANOXbqR5EVpXv0ZXUlmXTxbj1n+fRuoMkULIe/C7ng
+4lkvb1waTTTXfeBE3pXRXPwRwrLujj1bO4NB2FsknLidWQcUx9P4KtFThcI9GZsD
+m3rm0+2Pa0MpRznmj6xerpXfpvPOehhdvADcdwCCYAjncSKVx4u4FoqjgYK3FuL7
+dbVvtLXZpKHI3VJ8Bw17THdhHky04aiCYYOiL8h3eyNXPS3B39V0psKPpDKG/M4g
+QKonSPoK0GUj4FgYI86XPc5+fSKlNZI+jLMjUwIDAQABAoIBAFhfvacrY0CivwKd
+zmPtA9IvvuIKRPWk1jDbdaQyF+L2l1xIyLA4+0TvVGzqpk4kSoDnIpVANN6A7rFk
+rshmyaKYmWPYZH3R7mmcCe5vWOra2pspNy3EukEkInQvaSSR3wZ8Kf2Z8z8suAHZ
+joUBdAHHM6ji/QaZcSTnWGMJiZGciyxo9A0m+f0g1AYDm008Eevi
+-----END RSA PRIVATE KEY-----
+
+
+
+apikey = "AURaBOiNFDHUzyBxIcmc61MUQEBTUIop"
+
+
+sudo sudo passwd root
+groupadd newgroup
+useradd -G examplegroup exampleusername
+mkdir dir-root/
+chmod -R 777 demo-functions-java/
+chown usuariox:grupoy archivo.txt
+USE MASTER 1
+use master 2
+sp_addsrvrolemember 'PC\Admin', 'sysadmin'
+USE MASTER, 
+USER MODEL, 
+USE MSDB, 
+USE RESOURCE, 
+USE TEMPDB. 
